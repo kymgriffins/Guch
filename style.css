@@ -1443,15 +1443,7 @@ span.cd-words-wrapper{
 
 
 
-@import url(https://fonts.googleapis.com/css?family=Raleway);
 
-*, *:before, *:after{
-  margin: 0;
-  padding: 0;
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing:border-box;
-  box-sizing: border-box;
-}
 
 .main-title{
   color: #2d2d2d;
@@ -1464,11 +1456,7 @@ span.cd-words-wrapper{
 
 
 
-.container .title{
-  color: #1a1a1a;
-  text-align: center;
-  margin-bottom: 10px;
-}
+
 
 .content {
   position: relative;
