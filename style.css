@@ -1540,3 +1540,9 @@ span.cd-words-wrapper{
 .fadeIn-right{
   left: 80%;
 }
+.about-extra li{
+	color: #555;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 26px;
+  margin-bottom: 10px;}
