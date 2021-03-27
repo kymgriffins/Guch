@@ -1445,12 +1445,7 @@ span.cd-words-wrapper{
 
 
 
-.main-title{
-  color: #2d2d2d;
-  text-align: center;
-  text-transform: capitalize;
-  padding: 0.7em 0;
-}
+
 
 
 
@@ -1546,3 +1541,7 @@ span.cd-words-wrapper{
     font-weight: 300;
     line-height: 26px;
   margin-bottom: 10px;}
+
+
+.code { font-family:  "Open Sans", sans-serif; background-color:white;
+}
