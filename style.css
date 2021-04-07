@@ -199,7 +199,6 @@ body {
   background: #811d15 !important;
 }
 
-
 .bg-opacity {
   position: relative;
 }
@@ -1530,4 +1529,21 @@ span.cd-words-wrapper {
 }
 .container {
   padding: 0;
+}
+pre {
+  font-family: "Raleway", sans-serif;
+
+  width: 100%;
+  padding: 0;
+  margin: 0;
+
+  overflow-y: hidden;
+
+  font-size: 12px;
+  line-height: 20px;
+  background: white;
+
+  background: url(lines.png) repeat 0 0;
+  padding: 10px;
+  color: #333;
 }
